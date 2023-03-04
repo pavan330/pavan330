@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pavan
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python and Java with full stack 
-- 💞️ I’m looking to collaborate on java and Python Project
+- 👀 I’m interested in Java and Exploring things in technology.
+- 🌱 I’m currently learning Java with full stack 
 - 📫 How to reach me @apavan358@gmail.com
 
 <!---
